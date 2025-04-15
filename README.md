@@ -121,8 +121,7 @@ pip install opencv-python numpy mediapipe scipy
 
 - **Inspiration** : [Truthsayer](https://github.com/everythingishacked/Truthsayer) par everythingishacked.
 - **Bibliothèques** : MediaPipe, OpenCV, NumPy, SciPy.
-- **Auteur** : Massinissa (remplace par ton nom/pseudo si tu veux !).
-
+- **Auteur** : Massinissa
 Un grand merci à la communauté open-source pour les outils incroyables utilisés ici !
 
 ## Licence
