@@ -1,4 +1,4 @@
-# DetecteurFun
+ki# DetecteurFun
 
 **DetecteurFun** est un détecteur de mensonge ludique inspiré du projet [Truthsayer](https://github.com/everythingishacked/Truthsayer). Il analyse une vidéo pour détecter des indices physiologiques et comportementaux comme le pouls, les clignements d’yeux, les mains sur le visage, les changements de regard, et la compression des lèvres. Le programme affiche un pourcentage de "mensonge", des repères faciaux visuels, et un indicateur graphique ("truth meter") pour une expérience immersive.
 
@@ -21,7 +21,6 @@ Ce projet utilise des techniques de vision par ordinateur avec MediaPipe et Open
 
 ![Démo du détecteur](demo.png)
 
-*(Ajoute une capture d’écran en suivant les instructions dans "Contribuer" pour montrer le résultat !)*
 
 ## Prérequis
 
